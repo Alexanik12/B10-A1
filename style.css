@@ -98,5 +98,104 @@ main{
 }
 
 
+.jhankar{
+    background: rgb(231, 229, 229);
+    width: 60%;
+    margin: 30px auto 0;
+    padding-bottom: 30px;
+    box-shadow: 6px 3px 15px rgb(137, 135, 130);
+    border-radius: 13px;
+
+}
+
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    text-align: justify;
+    margin-top: 100px;
+}
 
 
+.html-card{
+    background: #FFDF000D;
+    padding: 40px;
+}
+.css-card{
+    background: #004CE80D;
+    padding: 40px;
+}
+.js-card{
+    background: #FF4C1E0D;
+    padding: 40px;
+}
+.margin{
+    margin-top: 50px ;
+}
+
+
+.target{
+    margin-top: 100px;
+}
+
+
+.target-card{
+    margin: 20px 16px;
+    padding: 20px 0;
+    background: #fffefe;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+    box-shadow: 0px 5px 50px rgb(247, 232, 232);
+    border-right:  1px  solid;
+    border-left: 1px solid;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-around;
+}
+
+.little-form{
+    border-radius: 16px;   
+    background-image:url();
+    background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url('/assets/handshake.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 38vh;
+} 
+
+.form-title{
+    color: white;
+    font-size: 20px;
+    padding-top: 18px;
+
+}
+
+.form-description{
+    margin-top: 20px;
+    color: rgb(221, 216, 216);
+    font-weight: bold;
+}
+
+input[type="submit"]{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+form{
+    text-align: center;
+    margin-top: 40px;
+}
+
+input[type="text"]{
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+
+
+    
