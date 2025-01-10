@@ -192,7 +192,7 @@ form{
 }
 
 input[type="text"]{
-    padding: 10px 30px;
+    padding: 12px 60px 12px 10px;
     border-radius: 5px;
     
 }
